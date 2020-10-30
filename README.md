@@ -1,2 +1,2 @@
 # itu-itis19-assignment1
-https://itu-itis-2019.github.io/assignment1-ituitis-bozkurtsen19/
+https://serrabozkurt.github.io/ITU-CS-Intro-Course-HW1/
